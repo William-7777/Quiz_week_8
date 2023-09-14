@@ -11,5 +11,8 @@ For Q2:
 3. git push
 
 For Q4:
-git log > git_log.txt
+1. git log > git_log.txt
+2. git add .
+3. git commit -m "Adding log"
+4. git push
 
