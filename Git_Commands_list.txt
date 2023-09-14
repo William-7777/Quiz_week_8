@@ -1,3 +1,15 @@
 Git command list:
-
+For Q1:
 1. git clone https://github.com/William-7777/Quiz_week_8.git
+2. git add .
+3. git commit -m "wrote some code to connect to database, fetch values, and populate lists with values"
+4. git push
+
+For Q2:
+1. git add .
+2. git commit -m "wrote some code to load the data from csv into lists"
+3. git push
+
+For Q4:
+git log > git_log.txt
+
